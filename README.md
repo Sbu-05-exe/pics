@@ -2,7 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+Read description of app to understand what it does:
+
+### Challenges
+ 
+- Making the application responsive to user events
+- Getting images to align properly and use of spacing
 
 ### `npm start`
 
