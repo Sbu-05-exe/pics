@@ -5,9 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Read description of app to understand what it does:
 
 ### Challenges
- 
+
+- Giving our project files some structure
 - Making the application responsive to user events
 - Getting images to align properly and use of spacing
+- Fetching data and representing in a suitable data structure
 
 ### `npm start`
 
